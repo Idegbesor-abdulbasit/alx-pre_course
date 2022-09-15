@@ -1,1 +1,1 @@
-My second repositury
+My second repository
